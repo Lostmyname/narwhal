@@ -1,0 +1,21 @@
+{
+  "name": "es6mvc",
+  "version": "0.0.0",
+  "private": true,
+  "devDependencies": {
+    "babel-loader": "^4.0.0",
+    "gulp": "^3.8.11",
+    "gulp-webpack": "^1.2.0",
+    "webpack": "^1.6.0"
+  },
+  "engines": {
+    "iojs": ">=1.0.0",
+    "node": ">=0.12.0"
+  },
+  "dependencies": {
+    "find-node-modules-down": "^1.0.0",
+    "gulp-watch": "^4.3.4",
+    "handlebars": "^3.0.3",
+    "yargs": "^3.17.1"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "collection": [
+    {
+      "name": "Barney",
+      "age": 28,
+      "sex": "Excellent"
+    },
+    {
+      "name": "Josh",
+      "age": 23,
+      "sex": "Great"
+    },
+    {
+      "name": "Weeden",
+      "age": "Professor",
+      "sex": "Sub par"
+    }
+  ]
+}
