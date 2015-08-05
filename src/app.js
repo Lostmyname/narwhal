@@ -1,5 +1,5 @@
 import $ from 'jquery';
-import { View, ViewCollection, Model, Collection } from './narwal';
+import { View, ViewCollection, Model, Collection } from './narwhal';
 
 
 class Person extends Model {
